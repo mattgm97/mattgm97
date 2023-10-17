@@ -5,9 +5,9 @@ I'm a Front-end developer since 2017 with a focus on React and related technolog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moraes-dev/)
 
 <div align="center">
-  <a href="https://github.com/ananazario">
+  <a href="https://github.com/mattgm97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgm97&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgm97&layout=compact&langs_count=6&theme=tokyonight"/>
    
 </div>
     <div style="display: inline_block" align="center"><br>
