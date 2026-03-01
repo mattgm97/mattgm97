@@ -6,24 +6,14 @@ I'm a Front-end developer since 2017 with a focus on React and related technolog
 
 <!-- GitHub Readme Stats (dark theme) -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-      alt="mattgm97's GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgm97&layout=compact&theme=dark&hide_border=true"
-      alt="Top languages"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattgm97&theme=github-dark" alt="mattgm97's Activity Graph" />
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api?username=mattgm97&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mattgm97&layout=compact&theme=dark&hide_border=true"
+  />
 </p>
     <div style="display: inline_block" align="center"><br>
 <h2 align="center"> Technologies </h2>
