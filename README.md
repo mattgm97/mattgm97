@@ -5,7 +5,6 @@ I'm a Front-end developer since 2017 with a focus on React and related technolog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moraes-dev/)
 
 <div align="center">
-  <a href="https://github.com/mattgm97">
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true&theme=dark"
