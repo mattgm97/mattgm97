@@ -21,6 +21,10 @@ I'm a Front-end developer since 2017 with a focus on React and related technolog
     />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattgm97&theme=github-dark" alt="mattgm97's Activity Graph" />
+</p>
     <div style="display: inline_block" align="center"><br>
 <h2 align="center"> Technologies </h2>
   <img align="center" alt="Icon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
