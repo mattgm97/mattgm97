@@ -4,19 +4,23 @@ I'm a Front-end developer since 2017 with a focus on React and related technolog
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moraes-dev/)
 
-<div align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true" />
-</picture>
-</div>
+<!-- GitHub Readme Stats (dark theme) -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=mattgm97&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+      alt="mattgm97's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgm97&layout=compact&theme=dark&hide_border=true"
+      alt="Top languages"
+    />
+  </a>
+</p>
     <div style="display: inline_block" align="center"><br>
 <h2 align="center"> Technologies </h2>
   <img align="center" alt="Icon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
